@@ -1,2 +1,12 @@
-# config
-Configuration repository for my custom Arch Linux environment
+```
+ ___________________________
+< another day, another ggdG >
+ ---------------------------
+   \
+    \
+
+     |\_/|
+     |o o|__
+     --*--__\
+     C_C_(___)
+```
